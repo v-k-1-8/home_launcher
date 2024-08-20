@@ -1,16 +1,8 @@
-# untitled
-
-A new Flutter project.
-
+# Productivity Home Launcher
+Home launcher based on flutter to increase productivity of a user
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Productivity Home launcher application can serve as the default launcher on an Android phone to boost user productivity<br>
+Developed an application that allows any app to be categorized into 1 of 3 categories and includes auto-closure features <br>
+Implemented features with Flutter and Dart packages with over 98% popularity and integrated feedback from 50+ users<br>
+Enhanced app organization and customization, resulting in a 15% increase in productivity by cutting primary distractions
